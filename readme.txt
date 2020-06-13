@@ -1,0 +1,1 @@
+This method parses the word representation of numbers up to one million to its integer value.
